@@ -1,0 +1,13 @@
+2022-10-01 08:10:26,905 | root | Heap.py:154 |             find_min() | WARNING | Attempting to find minimum item for an empty heap.
+2022-10-01 08:12:15,590 | root | Heap.py:154 |             find_min() | WARNING | Attempting to find minimum item for an empty heap.
+2022-10-01 08:12:56,455 | root | Heap.py:154 |             find_min() | WARNING | Attempting to find minimum item for an empty heap.
+2022-10-01 08:13:10,739 | root | Heap.py:154 |             find_min() | WARNING | Attempting to find minimum item for an empty heap.
+2022-10-01 08:13:10,739 | root | Heap.py:154 |             find_min() | WARNING | Attempting to find minimum item for an empty heap.
+2022-10-01 08:13:26,437 | root | Heap.py:154 |             find_min() | WARNING | Attempting to find minimum item for an empty heap.
+2022-10-01 08:13:26,437 | root | Heap.py:154 |             find_min() | WARNING | Attempting to find minimum item for an empty heap.
+2022-10-01 08:13:41,154 | root | Heap.py:154 |             find_min() | WARNING | Attempting to find minimum item for an empty heap.
+2022-10-01 08:13:41,154 | root | Heap.py:154 |             find_min() | WARNING | Attempting to find minimum item for an empty heap.
+2022-10-01 10:58:06,093 | root | Heap.py:161 |             find_min() | WARNING | Attempting to find minimum item for an empty heap.
+2022-10-01 10:58:06,095 | root | Heap.py:161 |             find_min() | WARNING | Attempting to find minimum item for an empty heap.
+2022-10-01 10:58:13,212 | root | Heap.py:161 |             find_min() | WARNING | Attempting to find minimum item for an empty heap.
+2022-10-01 10:58:13,212 | root | Heap.py:161 |             find_min() | WARNING | Attempting to find minimum item for an empty heap.
